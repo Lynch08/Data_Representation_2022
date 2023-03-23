@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8">
+
+<libary_cat>
+	<technical>
+		<IBSN>9780008209100</IBSN>
+		<title>Game of Computing Languages</title>
+		<author>George RR Martin</author>
+	</technical>
+	<technical>
+		<IBSN>9783962190019</IBSN>
+		<title>XML Gods</title>
+		<author>Neil Gaimen</author>
+	</technical>
+	<cookary>
+		<IBSN>9780330352291</IBSN>
+		<title>Love at First Taste</title>
+		<author>Wolfgang Oliver</author>
+	</cookary>
+	<cookary>
+		<IBSN>9780007103072</IBSN>
+		<title>Holy Food Batman</title>
+		<author>Gordan Flay</author>
+	</cookary>
+</libary_cat>

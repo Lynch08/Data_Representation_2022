@@ -1,0 +1,34 @@
+[
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "e97ec0812a5a8a97d3061ab6a3810e5209d3af32",
+        "size": 36,
+        "url": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/contents/README.md?ref=master",
+        "html_url": "https://github.com/Lynch08/Data_Rep_API_Test/blob/master/README.md",
+        "git_url": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/git/blobs/e97ec0812a5a8a97d3061ab6a3810e5209d3af32",
+        "download_url": "https://raw.githubusercontent.com/Lynch08/Data_Rep_API_Test/master/README.md?token=ASQMDXNPJTOE3SRXSETDHOTECJKXC",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/contents/README.md?ref=master",
+            "git": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/git/blobs/e97ec0812a5a8a97d3061ab6a3810e5209d3af32",
+            "html": "https://github.com/Lynch08/Data_Rep_API_Test/blob/master/README.md"
+        }
+    },
+    {
+        "name": "Test.txt",
+        "path": "Test.txt",
+        "sha": "03de629bead8f2cc2e790486de60610b8efb999c",
+        "size": 42,
+        "url": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/contents/Test.txt?ref=master",
+        "html_url": "https://github.com/Lynch08/Data_Rep_API_Test/blob/master/Test.txt",
+        "git_url": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/git/blobs/03de629bead8f2cc2e790486de60610b8efb999c",
+        "download_url": "https://raw.githubusercontent.com/Lynch08/Data_Rep_API_Test/master/Test.txt?token=ASQMDXOG5MENPGVSYMU5XULECJKXC",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/contents/Test.txt?ref=master",
+            "git": "https://api.github.com/repos/Lynch08/Data_Rep_API_Test/git/blobs/03de629bead8f2cc2e790486de60610b8efb999c",
+            "html": "https://github.com/Lynch08/Data_Rep_API_Test/blob/master/Test.txt"
+        }
+    }
+]

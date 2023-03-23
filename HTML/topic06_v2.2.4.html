@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Topic 6 Vid2.2.2.4</title>
+    </head>
+    <body>
+        <div id = "output">Output Here</div>
+
+        <script>
+            for (var i=0; i<10; i++){
+                console.log(i)
+            }
+            var names=["Enda", "Mary", "Jerry", "Colm"]
+            var output = ""
+            for (name of names){
+                output += name + "<br/>"
+            }
+            document.getElementById("output").innerHTML = output
+        </script>
+    </body>
+</html>

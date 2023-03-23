@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Topic 6 Vid2.1.2</title>
+    </head>
+    <body>
+        <input id = "name" type="text" value="Enter Info"/>
+        <br/>
+        <button onclick="buttonClicked()">Click ME :)</button><br/>
+        <div id="output">Output Will Go Here</div>
+
+
+        <script>
+            function buttonClicked(){
+                var output=document.getElementById("name").value
+                document.getElementById("output").innerText = output
+            }
+        </script>
+    </body>
+</html>
