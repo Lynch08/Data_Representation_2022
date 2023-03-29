@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Topic 6 Vid2.3.1</title>
+    </head>
+    <body>
+        <div id = "myForm">
+            First Name: <input type="text" name = 'firstName'/><br>
+            Last Name: <input type="text" name = 'lastName'/><br>
+            Age: <input type="text" name = 'Age'/><br>
+            <button onclick="doform()">GO</button>
+        </div>
+        <script>
+            function doform(){
+                var employee = {}
+                var form =  document.getElementById("myForm")
+                employee.firstName = form.querySelector('input[name = "firstName"').value
+                employee.lastName = form.querySelector('input[name = "lastName"').value
+                employee.Age = form.querySelector('input[name = "Age"').value
+                console.log ("Form Data " + JSON.stringify(employee))
+            }
+        </script>
+    </body>
+</html>
